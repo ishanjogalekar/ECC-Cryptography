@@ -6,7 +6,8 @@
 
 ---
 
-*## Below mentioned are one liner descrips....*
+## Below mentioned are one liner descrips....
+
 ### 1. [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) :snowflake: - 
 One of the first practical public-key cryptosystems and is widely used for secure data transmission. In RSA, this asymmetry is based on  the practical difficulty of factoring the product of two large prime numbers, the factoring problem.
 
