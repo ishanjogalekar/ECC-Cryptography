@@ -1,10 +1,11 @@
-# ECC Cryptography using Java
+# Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> to ECC Cryptography using Java 
 ## Comparison between RSA , DSA and ECC based Cryptography <br/>
 - #### RSA - Rivest Shamir Algorithm <br/>
 - #### DSA - Digital Signature Algorithm <br/>
 - #### ECC - Elliptic Curve Cryptography <br/>
 
 ---
+
 
 ## Below mentioned are one liner descrips....
 
